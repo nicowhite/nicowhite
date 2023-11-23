@@ -1,6 +1,28 @@
 ### Hi there 👋
-Developer in the making.
-Currently working on IT, some of my hobbies are video games, sports and watching movies/tv shows. 👽
+I'm Nico, a passionate IT professional with a focus on programming and web development. 💻
+
+🚀 Aspiring developer proficient in React and Node.js, I thrive on building dynamic and responsive web applications. My code is a reflection of my commitment to clean, efficient, and scalable solutions.
+
+🛠️ Tech Stack:
+
+Frontend: React, HTML, CSS, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB, MySQL
+Version Control: Git, GitHub
+🌐 Projects:
+
+Project Name 1: Brief description of the project and your role.
+Project Name 2: Another project showcasing your skills.
+📚 Education:
+
+[Your Degree], [Your University], Graduation Year
+🔧 Skills:
+
+JavaScript (ES6+)
+React.js
+Node.js
+HTML5, CSS3
+Git & GitHub
 
 
 
