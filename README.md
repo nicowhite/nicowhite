@@ -3,7 +3,7 @@ I'm Nico, a passionate IT professional with a focus on programming and web devel
 
 🚀 Aspiring developer proficient in React and Node.js, I thrive on building dynamic and responsive web applications. My code is a reflection of my commitment to clean, efficient, and scalable solutions.
 
-🛠️ Tech Stack:
+###🛠️ Tech Stack:
 
 Frontend: React, HTML, CSS, JavaScript
 Backend: Node.js, Express.js
@@ -16,7 +16,7 @@ Project Name 2: Another project showcasing your skills.
 📚 Education:
 
 [Your Degree], [Your University], Graduation Year
-🔧 Skills:
+###🔧 Skills:
 
 JavaScript (ES6+)
 React.js
