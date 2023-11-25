@@ -15,7 +15,7 @@ Project Name 1: Brief description of the project and your role.
 Project Name 2: Another project showcasing your skills.
 📚 Education:
 
-[Your Degree], [Your University], Graduation Year
+
 ### 🔧 Skills:
 
 JavaScript (ES6+)
